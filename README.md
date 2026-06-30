@@ -124,7 +124,7 @@ Information Science Engineer | Java Developer | Full Stack Developer
 
 <p>
 
-<a href="www.linkedin.com/in/mohammed-zufar-baig-8a4009249">
+<a href="https://www.linkedin.com/in/mohammed-zufar-baig-8a4009249">
 LinkedIn
 </a>
 
